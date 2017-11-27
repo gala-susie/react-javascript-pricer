@@ -1,0 +1,78 @@
+.App {
+/*  text-align: center;*/
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 50px;
+}
+
+#test {
+  margin-top: -5px;
+}
+
+.react-grid-Row:hover .react-grid-Cell,
+.react-grid-Row.row-context-menu .react-grid-Cell{
+  background-color: #d0d9e0 !important;
+}
+
+.neg {color: red;}
+
+.react-grid-Toolbar {
+  display: none
+}
+
+.App-header {
+  text-align: center;
+  background-color: #222;
+  height: 80px;
+  padding: 10px;
+  color: white;
+}
+
+.prices {
+  text-align: left;
+  margin-right: 20px;
+}
+
+.textLeft {
+  text-align: left;
+}
+
+.csvUpload {
+  text-align: left;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+.blackText{
+  color: black;
+}
+
+.react-grid-Viewport {
+  text-align: right;
+}
+
+.react-grid-Row--even .react-grid-Cell { background-color: #bbdefb; }
+
+.navbar-header .navbar-brand {
+  font-size: 180%;
+}
+/* Prevents link-like highlighting on hover */
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+  color: #9d9d9d !important;
+}
+
+.full-col {
+  padding: 0px !important;
+  border-radius: 0px !important;
+}
+
+.full-col .panel {
+  border-radius: 0px !important;
+  height: 350px;
+}
+
+.navbar {
+  border-radius: 0px !important;
+}

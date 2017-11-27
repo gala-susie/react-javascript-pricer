@@ -1,0 +1,3 @@
+﻿Name,Qty,Price,Net,Stable,Unstable,Repo,RepoRate,ExtBorrow,ALM,almRate,LCR,RWA,BorrowRate,Tier,IndLoanRate,Currency
+IBM,5000,100,2000,1680,320,2900,.05,,100,.18,.05,.07,,1,.18,USD
+AAPL,-3000,500,1000,1000,,,,2000,,,.15,.50,.15,1,,USD
